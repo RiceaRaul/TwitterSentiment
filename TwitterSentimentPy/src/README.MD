@@ -90,9 +90,6 @@ twitter_sentiment_analysis/
 │       ├── data/                  # Lexicons and sample data
 │       └── config.py              # Configuration
 ├── scripts/                       # Command-line scripts
-├── tests/                         # Unit tests
-├── docs/                          # Documentation
-├── setup.py                       # Package installation
 └── README.md                      # This file
 ```
 
